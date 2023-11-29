@@ -28,7 +28,7 @@ public class Persona {
       System.out.println("Nombre: " + persona.nombre);
       System.out.println("Apellidos: " + persona.apellidos);
       System.out.println("Edad: " + persona.edad);
-  }
+  }// comentario cambios
 }    
 
     
